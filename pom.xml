@@ -51,6 +51,12 @@
             <artifactId>aspectjweaver</artifactId>
             <version>1.8.5</version>
         </dependency>
+        <!--spring test支持-->
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-test</artifactId>
+            <version>5.1.2.RELEASE</version>
+        </dependency>
         <!-- Junit-->
         <dependency>
             <groupId>junit</groupId>
